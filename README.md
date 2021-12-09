@@ -2,6 +2,17 @@
 
 ### **Visit the created site [here](https://www.weathersense.susanavitoria.pt/)**
 
+### Monitoring of environmental parameters: temperature, humidity and ultraviolet index
+
+### Concepts and frameworks learned with this project:
+
+- Sensorization
+- Weather API
+- Notifications
+- OpenWeatherMap
+- Adafruit
+- IFTTT
+---
 Through the OpenWeatherMap API and the OneCall API, information was collected on temperature, humidity and UV index, per hour for the next 12 hours on any desired city.
 
 ### Use of Adafruit: 
