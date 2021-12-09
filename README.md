@@ -1,8 +1,8 @@
 # Sensorization OpenWeatherMap Adafruit IFTTT
 
-### **Visit the created site [here](https://www.weathersense.susanavitoria.pt/)**
-
 ### Monitoring of environmental parameters: temperature, humidity and ultraviolet index
+
+### **Visit the created site [here](https://www.weathersense.susanavitoria.pt/)**
 
 ### Concepts and frameworks learned with this project:
 
